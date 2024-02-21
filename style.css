@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+.box{
+   height: 100px;
+   width: 100px;
+   border-radius: 4px;
+   border: 2px solid black;
+   margin: 1rem;
+}
+
+.maindiv{
+    display: flex;
+    justify-content: center;
+}
+
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.flash{
+    background-color: white;
+}
